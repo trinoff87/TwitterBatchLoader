@@ -1,0 +1,95 @@
+@relation twitter
+
+@attribute tweetMsg string  
+@attribute class{positivo,negativo,neutral}
+
+@data
+
+"Por primera vez acabo de ver un capítulo de  y es lo más naco, corriente hecho por y para gatos.",negativo
+"Si alguien encuentra mi sueño, dígale que regrese. Diasssss !!!",neutral
+"Bonita noche guapos.",positivo
+"No estén con sus mamadas de no me van a felicitar por el día del papacito créanme que pierden el poco encanto que puedan tener.",negativo
+"I'm at Cenaduria Lolita in Guadalajara, JAL",neutral 
+"I'm at IMEPLAN in Verde Valle, Jalisco",neutral 
+"Siempre innovadores en mindmexico tenemos lluvia interna @ MIND -…",neutral 
+"Casa Musa GDL",neutral 
+"Pasan rapidísimo los minutos cuando la plática fluye sabrosa, y con un tema como el de los…",positivo 
+"El cacheton (@ Kinder Federico Froebel)",neutral 
+"Recogiendo a la cachetona (@ Centro Educativo Maria C. Bancalari)",positivo 
+"I'm at Atras De Ti in Guadalajara, Jalisco ",neutral
+"Comité de Productividad del Estado de Jalisco. MIND",neutral 
+"Enpezandole con todo buena semana people (@ Startfit Gimnasio in Peninsula, jalisco)",positivo 
+"Tengo un sueño...",neutral 
+"Aun falta!! @ Snap Fitness Topacio",positivo
+"Ps llegando a penas!!! (@ Snap Fitness 24/7 Topacio in Guadalajara, Jalisco w/ )",positivo 
+"HER MO SO !!",positivo 
+"¿Y esta J quién es y porque me bloqueo?",negativo 
+"Del baúl, en ese viaje interminable por carretera que desembocó en…",positivo 
+"Porque no tenemos llenadera (@ Wingman Lapizlasuli w/ )",positivo 
+"Spinner as a belated birthday present, courtesy of Sebas (at  in Zapopan, JAL)",positivo  
+"Tengo flojera de salir...",negativo 
+"El que es amigo debe mostrarse amigo  10 Mixta",negativo 
+"Derrochando talento campusero",positivo   
+"4 cajas y solamente 1 funcionando... SIEEEMPRE ES LO MISMO EN ESTE BANCO! Y como siempre, LENISSIMO!",negativo 
+"Porqué me dejan venir T_T ( in Zapopan, JAL)",negativo 
+"Pasele pasele... Café  , búscame frente al stand de .com y el…",neutral 
+"De verdad que en lo único que pienso cuando llueve así, es en los pobres animales de la calle.",negativo
+"Deossss !!!",negativo
+"Escuchando a  y feliz de colaborar con  y   en el proyecto  Ver la luz en lo…",positivo 
+"Carne en su jugo... Me siento vulgar diciendo esto( Garibaldi -  in Zapopan, JAL)",neutral 
+"Que paso, rey ! Unos chilakillers? 🙌❤️🙌 ( Cabaña De Alemán in Guadalajara, JAL)",neutral 
+"Increíble te atienden en menos de 15 segundos!! ( Garibaldi -  in Zapopan, JAL w/ )",positivo 
+"Wiiii ( Garibaldi -  in Zapopan, JAL)",positivo 
+"Increíble disfraz de…",positivo 
+"Hoy presentamos ponencia, Artsolem, arte para llevar, 9:00pm",neutral
+"Surtiendo la despensa ( Aurrerá in Guadalajara, JAL)",neutral 
+"Es increíble en donde puedes encontrar las mejores amistades ;)",positivo  
+"Aplausos! (@Taquería Los Alteños in Zapopan, JAL)",positivo 
+"Lo que nadie cuenta y menos tu... (at  in Zapopan, JAL)",neutral 
+"Con mis muñecas favoritas  party 8 Guadalajar",positivo 
+"Ay deosss pensar que mi novio (ajaa)  está a unas cuadras de mi casa.",positivo
+"I just finished cycling 43.05 km in 4h:52m:39s with",positivo
+"Trade one addiction for another, trade one self destruction for another, until someone...",negativo  
+"Gracias a los patrocinadores que hacen este evento posible mindmexico sra.nancybanquetes…",positivo
+"Días soleados como este... ¡me encanta! (at  in Zapopan, JAL)",positivo 
+"Innovación es un cambio que supone una novedad.",neutral
+"¿Tu negocio es innovador o solo un seguidor?",neutral
+"Ponen a los deftones, así que me acaban de ganar. ( Borra del Café in Guadalajara, Jalisco)",positivo 
+"Enpezandole con todo buena semana people ( Gimnasio in Peninsula, jalisco)",positivo 
+"Tengo un sueño...",positivo
+"HERMOSO!!",positivo 
+"¿Y esta J quién es y porque me bloqueo?",negativo 
+"WTF ?",negativo 
+"No oramos por bendición para nosotros, oramos por trascender en las generaciones y engendrar…",neutral 
+"Así de rico amaneció el clima",positivo
+"Hoy soñé que mi mamá me abrazaba para dormir... fue tan lindo.",positivo
+"Buenos días guapos",positivo
+"Se aproxima una tormenta, les aviso por si llego tarde a trabajar...",negativo
+"Oye , estoy con Uds desde hace meses y aún me siguen molestando para cambiarle con Uds ¿como ahí que ?",negativo
+"Me aplico la ley del hielo porque no le invite de mi sándwich.",negativo 
+"Deossss solo mándame un novio como  no pido más !",neutral
+"Nadie le hace caso al gobernador  sus escoltas no lo obedecen....",negativo 
+"Necesito un masaje en mis pies !!",neutral 
+"Yep yep una que si está feliz (@ Krispy Kreme -  in Zapopan, Jalisco)",positivo  
+"Este clima si me gusta.",positivo 
+"Feliz cumple bro",positivo  
+"¿Que hachearon a ?",negativo
+"Ésta semana he perdido un poquito la fe en los humanos por distintas razones, pero quizás hoy…",negativo
+I'm sorry that I'm not there to give you what you want",negativo
+"Adiós segundo estado favorito de México  :) ( Western Gran Hotel Centro Histórico in Guadalajara)",positivo
+"Excelente inicio de semana  , Jalisco",positivo
+"Y asi fue como terminó todo",negativo
+"Yo te acepto el trato.",neutral
+"Se encelan hasta de un puto like, pero empiéza la de felices los 4 y andan cante y cante.",negativo
+"Cuando ni a  le gustan las criaturas de    Guadalajara",negativo 
+"Tomando el sol de Guadalajara fuera de  con mi amor…",positivo 
+"Una barda colapsó en calle Pelicano y Roble de la colonia El Fresno. Dañó dos vehículos.",negativo 
+"Cuando me dice que tengamos un hijo || pero sin el hijo.",neutral 
+"Pensé que yo estaba cabezon, después llego  y mi autoestima regreso.",neutral
+"Vien Loko ALV desde temprano",negativo 
+"Telework Dia 2: Me acabo de comer el mejor pie de fresa de la ciudad y un delicioso café nayarita  ¡Gracias!",positivo 
+"Saludos a todos nuestros  y , ya es   de",positivo 
+"Compralos, los va a necesitar tu hija",neutral 
+"WTF",negativo 
+"Con los ganadores de la vertical de  un proyecto que puede erradicar la…",neutra 
+"La diferencia entre un novio y un super novio es.... La presentación",neutral

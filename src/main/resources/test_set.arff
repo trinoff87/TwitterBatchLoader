@@ -1,0 +1,11 @@
+@relation twitter
+
+@attribute tweetMsg string  
+@attribute class{positivo,negativo,neutral}
+
+@data
+
+"Que rico huele aqui afuera jajaja (  in Guadalajara, JAL)",?
+"Regalos desde Guadalajara ",?
+"La mejores experiencias, siempre con amigos, disfrutando lo que haces y lo que te motiva.",?
+"Una barda colapsó en calle Pelicano y Roble de la colonia El Fresno. Dañó dos vehículos.",?
